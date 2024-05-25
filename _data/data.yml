@@ -53,8 +53,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-  Recent graduate in Software Engineering from the University of Colima, with a passion for delivering exceptional user experiences and a relentless drive to expand my knowledge. I am committed to mastering new technologies and leveraging my strong design, creativity, and communication skills to innovate.  I thrive in collaborative environments and proactive in sharing my knowledge while learning from others. My interest in technology stems from its potential to improve our lives and resolve necessities but if it can be with a good experience, it can truly revolutionize the way we live and interact with the world.
+  summary: Recent graduate in Software Engineering from the University of Colima, with a passion for delivering exceptional user experiences and a relentless drive to expand my knowledge. I am committed to mastering new technologies and leveraging my strong design, creativity, and communication skills to innovate.  I thrive in collaborative environments and proactive in sharing my knowledge while learning from others. My interest in technology stems from its potential to improve our lives and resolve necessities but if it can be with a good experience, it can truly revolutionize the way we live and interact with the world.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
