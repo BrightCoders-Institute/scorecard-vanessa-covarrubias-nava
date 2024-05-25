@@ -122,6 +122,10 @@ skills:
       level-name: Competent
       time: 1.5 years
 
+    - name: Figma
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
